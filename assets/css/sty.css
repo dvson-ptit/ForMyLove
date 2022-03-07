@@ -7,6 +7,10 @@
       margin-top: 3.6rem;
 }
 
+#info .one a{
+      cursor: pointer;
+}
+
 #clock-box, #info {
       grid-column: span 3;
       display: grid;

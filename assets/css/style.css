@@ -6,6 +6,10 @@ html, body {
 
 img {max-width: 100%;}
 
+a{
+    cursor: default;
+}
+
 body {
     display: grid;
     font-family: 'Open Sans',sans-serif !important;
